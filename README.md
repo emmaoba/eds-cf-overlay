@@ -4,6 +4,7 @@ Your project's description...
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
+- Code Sync: https://tools.aem.live/bot/setup?user=&site=eds-cf-overlay&url=https%3A%2F%2Fcontent.da.live%2Femmaoba%2Feds-cf-overlay%2F&org=emmaoba
 
 ## Documentation
 

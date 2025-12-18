@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-cf-overlay/:/",
-    "/content/eds-cf-overlay/configuration:/.helix/config.json",
-    "/content/eds-cf-overlay/metadata:/metadata.json"
+    "/content/universal-editorsite/:/",
+    "/content/universal-editorsite/configuration:/.helix/config.json",
+    "/content/universal-editorsite/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-cf-overlay/"
+    "/content/universal-editorsite/"
   ]
 }
